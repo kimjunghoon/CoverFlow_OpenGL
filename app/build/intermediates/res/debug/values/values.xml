@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/junghoon.kim/AndroidstudioProjects/CoverFlow_OpenGL_junghoon/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">CoverFlow_OpenGL</string>
+    <string name="hello">Hello World, Cube!</string>
+</resources>

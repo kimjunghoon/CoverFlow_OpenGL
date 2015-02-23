@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/widget_music_btn_right_pre" />
+    <item android:state_focused="true" android:drawable="@drawable/widget_music_btn_right_foc"/>
+    <item android:drawable="@drawable/widget_music_btn_right_nor" />
+</selector><!-- From: file:/C:/Users/junghoon.kim/AndroidstudioProjects/CoverFlow_OpenGL_junghoon/app/src/main/res/drawable/widget_music_btn_right.xml -->
